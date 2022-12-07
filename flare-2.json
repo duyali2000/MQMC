@@ -1,0 +1,499 @@
+{
+ "name": "product",
+ "children": [
+  {
+   "name": "clothes",
+   "children": [
+    {
+     "name": "tops",
+     "children": [
+      {"name": "coat", "value": 1},
+      {"name": "fleece", "value": 1},
+      {"name": "women's clothing", "value": 1},
+      {"name": "pajamas", "value": 1},
+      {"name": "jacket", "value": 1},
+      {"name": "children's clothing", "value": 1},
+      {"name": "men's clothing", "value": 1},
+      {"name": "shirt", "value": 1},
+      {"name": "vest", "value": 1},
+      {"name": "frock", "value": 1},
+      {"name": "suit", "value": 1},
+      {"name": "underwear", "value": 1},
+      {"name": "dust coat", "value": 1},
+      {"name": "pregnant's clothing", "value": 1},
+      {"name": "down jacket", "value": 1},
+      {"name": "fur", "value": 1},
+      {"name": "sport suit", "value": 1},
+      {"name": "parent-child outfit", "value": 1},
+      {"name": "swimsuit", "value": 1},
+      {"name": "dress", "value": 1},
+      {"name": "T-shirt ", "value": 1},
+      {"name": "Beautiful clothes back", "value": 1},
+      {"name": "render", "value": 1},
+      {"name": "majia", "value": 1},
+      {"name": "han clothing", "value": 1},
+      {"name": "sleeve", "value": 1}
+     ]
+    },
+    {
+     "name": "bottoms",
+     "children": [
+      {"name": "jeans", "value": 1},
+      {"name": "shorts", "value": 1},
+      {"name": "underwear shorts", "value": 1},
+      {"name": "nightgown", "value": 1},
+      {"name": "cheongsam", "value": 1},
+      {"name": "skirts", "value": 1},
+      {"name": "dungarees", "value": 1},
+      {"name": "rompers", "value": 1},
+      {"name": "braces skirt", "value": 1},
+      {"name": "suit pants", "value": 1},
+      {"name": "motion pants", "value": 1},
+      {"name": "cotton trousers", "value": 1},
+      {"name": "dresses", "value": 1},
+      {"name": "leather pants", "value": 1},
+      {"name": "wedding dress", "value": 1},
+      {"name": "wide-legged pants", "value": 1},
+      {"name": "pants", "value": 1}
+     ]
+    },
+    {
+        "name": "bags",
+        "children": [
+        {"name": "backpank", "value": 1},
+        {"name": "handbag", "value": 1},
+        {"name": "school bag", "value": 1},
+        {"name": "chesk bag", "value": 1},
+        {"name": "cosmetic bag", "value": 1},
+        {"name": "leather bag", "value": 1},
+        {"name": "trunk", "value": 1},
+        {"name": "pocket", "value": 1},
+        {"name": "package", "value": 1},
+        {"name": "inclined shoulder bage", "value": 1}
+      ]
+    },
+    {
+        "name": "footgear",
+        "children": [
+        {"name": "women's shoes", "value": 1},
+        {"name": "sandals", "value": 1},
+        {"name": "socks", "value": 1},
+        {"name": "sports shoes", "value": 1},
+        {"name": "men's shoes", "value": 1},
+        {"name": "slippers", "value": 1},
+        {"name": "high heels", "value": 1},
+        {"name": "leather shoes", "value": 1},
+        {"name": "silk stockings", "value": 1},
+        {"name": "insoles", "value": 1},
+        {"name": "socks", "value": 1},
+        {"name": "baby shoes", "value": 1},
+        {"name": "pantyhose", "value": 1},
+        {"name": "skateboarding shoes", "value": 1},
+        {"name": "casual shoes", "value": 1},
+        {"name": "mayou hose", "value": 1},
+        {"name": "boots", "value": 1},
+        {"name": "clarks", "value": 1}
+      ]
+    },
+    {
+        "name": "jewelry",
+        "children": [
+        {"name": "ornament", "value": 1},
+        {"name": "necklace", "value": 1},
+        {"name": "earrings", "value": 1},
+        {"name": "belt", "value": 1},
+        {"name": "ring", "value": 1},
+        {"name": "hat", "value": 1},
+        {"name": "bracelet", "value": 1},
+        {"name": "hairpin", "value": 1},
+        {"name": "glasses", "value": 1},
+        {"name": "badge", "value": 1},
+        {"name": "heads", "value": 1},
+        {"name": "fabric", "value": 1},
+        {"name": "watch", "value": 1},
+        {"name": "gloves", "value": 1},
+        {"name": "pendant", "value": 1}
+      ]
+    }
+   ]
+  },
+  {
+   "name": "cosmetics",
+   "children": [
+    {
+      "name": "makeup",
+      "children": [
+      {"name": "lipstick", "value": 1},
+      {"name": "eye shadow", "value": 1},
+      {"name": "air cushion", "value": 1},
+      {"name": "eyebrow pencil", "value": 1},
+      {"name": "eyelash", "value": 1},
+      {"name": "eyeliner", "value": 1},
+      {"name": "blusher", "value": 1},
+      {"name": "perfume", "value": 1},
+      {"name": "nail art", "value": 1},
+      {"name": "labial glair", "value": 1}
+    ]
+  },
+  {
+      "name": "skincare",
+      "children": [
+      {"name": "cream", "value": 1},
+      {"name": "sunscreen", "value": 1},
+      {"name": "mask", "value": 1}
+    ]
+  },
+  {
+      "name": "cleanser",
+      "children": [
+      {"name": "facial cleanser", "value": 1},
+      {"name": "shower gel", "value": 1}
+    ]
+  },
+  {
+      "name": "hairdressing",
+      "children": [
+      {"name": "hair film", "value": 1},
+      {"name": "shampoo", "value": 1},
+      {"name": "hair dye", "value": 1},
+      {"name": "curly hair", "value": 1},
+      {"name": "shampoo", "value": 1},
+      {"name": "hair color cream", "value": 1}
+    ]
+  }
+   ]
+  },
+  {
+   "name": "supplies",
+   "children": [
+    {
+      "name": "toiletries",
+      "children": [
+      {"name": "toothpaste", "value": 1},
+      {"name": "toilet paper", "value": 1},
+      {"name": "brush", "value": 1},
+      {"name": "comb", "value": 1},
+      {"name": "soap box", "value": 1},
+      {"name": "toothbrush", "value": 1},
+      {"name": "dry hair cap", "value": 1},
+      {"name": "towel", "value": 1}
+    ]
+  },
+  {
+      "name": "computers",
+      "children": [
+      {"name": "torch", "value": 1},
+      {"name": "mobile phone", "value": 1},
+      {"name": "keyboard", "value": 1},
+      {"name": "headset", "value": 1},
+      {"name": "laptop", "value": 1},
+      {"name": "stereo", "value": 1},
+      {"name": "speaker", "value": 1},
+      {"name": "charger", "value": 1},
+      {"name": "toughened membrane", "value": 1}
+    ]
+  },
+  {
+      "name": "ironware",
+      "children": [
+      {"name": "cross-stitch", "value": 1},
+      {"name": "flower", "value": 1},
+      {"name": "craft", "value": 1}
+    ]
+  },
+  {
+      "name": "decorate",
+      "children": [
+      {"name": "light bulb", "value": 1},
+      {"name": "glass", "value": 1},
+      {"name": "kitchen knife", "value": 1},
+      {"name": "socket", "value": 1},
+      {"name": "lamps and lanterns", "value": 1},
+      {"name": "faucet", "value": 1},
+      {"name": "battery", "value": 1},
+      {"name": "lighter", "value": 1}
+    ]
+  },
+  {
+      "name": "consumable",
+      "children": [
+      {"name": "bottle", "value": 1},
+      {"name": "diapers", "value": 1},
+      {"name": "facemask", "value": 1},
+      {"name": "drive midge", "value": 1},
+      {"name": "paper diaper", "value": 1},
+      {"name": "shopping bags", "value": 1},
+      {"name": "raincoat", "value": 1},
+      {"name": "artifact", "value": 1},
+      {"name": "lce packs", "value": 1},
+      {"name": "duster cloth", "value": 1},
+      {"name": "slimming machine", "value": 1}
+    ]
+  }
+   ]
+  },
+  {
+   "name": "furniture",
+   "children": [
+    {
+      "name": "electrical",
+      "children": [
+      {"name": "air conditioner", "value": 1},
+      {"name": "titanium", "value": 1},
+      {"name": "power plate", "value": 1},
+      {"name": "meat grinder", "value": 1},
+      {"name": "minced vegatable machine", "value": 1},
+      {"name": "fan", "value": 1},
+      {"name": "washing machine", "value": 1},
+      {"name": "wall clock", "value": 1},
+      {"name": "cooker", "value": 1},
+      {"name": "monitoring", "value": 1},
+      {"name": "water heater", "value": 1},
+      {"name": "noodle maker", "value": 1}
+    ]
+  },
+  {
+      "name": "tableware",
+      "children": [
+      {"name": "spoons", "value": 1},
+      {"name": "tableware", "value": 1},
+      {"name": "ceramic", "value": 1},
+      {"name": "stainless steel", "value": 1},
+      {"name": "tes tray", "value": 1},
+      {"name": "cup", "value": 1}
+    ]
+  },
+  {
+      "name": "furniture",
+      "children": [
+      {"name": "household", "value": 1},
+      {"name": "carpet", "value": 1},
+      {"name": "sofa cushion", "value": 1},
+      {"name": "door cushion", "value": 1},
+      {"name": "seat cushion", "value": 1},
+      {"name": "shelf", "value": 1},
+      {"name": "tatami", "value": 1},
+      {"name": "toilet", "value": 1},
+      {"name": "curtain", "value": 1},
+      {"name": "mat", "value": 1},
+      {"name": "wardrobe", "value": 1},
+      {"name": "ceramic tile", "value": 1},
+      {"name": "setting wall", "value": 1},
+      {"name": "sofa", "value": 1},
+      {"name": "hangers", "value": 1},
+      {"name": "floor", "value": 1}
+    ]
+  },
+  {
+      "name": "beddings",
+      "children": [
+      {"name": "bedding", "value": 1},
+      {"name": "mat", "value": 1},
+      {"name": "quilt", "value": 1},
+      {"name": "mattress", "value": 1},
+      {"name": "pillow", "value": 1}
+    ]
+  },
+  {
+      "name": "carrier",
+      "children": [
+      {"name": "electrical vehicle", "value": 1},
+      {"name": "bicycle", "value": 1},
+      {"name": "car", "value": 1}
+    ]
+  }
+   ]
+  },
+  {
+   "name": "entertainment",
+   "children": [
+    {
+      "name": "stationery",
+      "children": [
+      {"name": "calligraphy and painting", "value": 1},
+      {"name": "newspaper", "value": 1},
+      {"name": "glue", "value": 1},
+      {"name": "pencil", "value": 1},
+      {"name": "stationery", "value": 1}
+    ]
+  },
+  {
+      "name": "toy",
+      "children": [
+      {"name": "game", "value": 1},
+      {"name": "basketball", "value": 1},
+      {"name": "lantern", "value": 1},
+      {"name": "plaything", "value": 1}
+    ]
+  },
+  {
+      "name": "pet supplies",
+      "children": [
+      {"name": "fishing rod", "value": 1},
+      {"name": "pet", "value": 1},
+      {"name": "fishing tackle", "value": 1}
+    ]
+  },
+  {
+      "name": "teaching video",
+      "children": [
+      {"name": "teaching", "value": 1}
+    ]
+  }
+   ]
+  },
+  {
+   "name": "food",
+   "children": [
+    {
+      "name": "snack",
+      "children": [
+      {"name": "delicacy", "value": 1},
+      {"name": "refreshment", "value": 1},
+      {"name": "candy", "value": 1},
+      {"name": "jelly", "value": 1},
+      {"name": "chicken feet", "value": 1},
+      {"name": "cookies", "value": 1},
+      {"name": "popcorn", "value": 1},
+      {"name": "rice crust", "value": 1},
+      {"name": "nuts", "value": 1},
+      {"name": "cream", "value": 1},
+      {"name": "walnut", "value": 1},
+      {"name": "sesame", "value": 1},
+      {"name": "seaweed", "value": 1},
+      {"name": "dessert", "value": 1},
+      {"name": "coffee", "value": 1},
+      {"name": "spicy crab", "value": 1},
+      {"name": "cheese", "value": 1},
+      {"name": "icecream", "value": 1},
+      {"name": "drinks", "value": 1},
+      {"name": "cashew nuts", "value": 1},
+      {"name": "cone", "value": 1},
+      {"name": "sausage", "value": 1},
+      {"name": "dried fruits", "value": 1},
+      {"name": "moon cake", "value": 1},
+      {"name": "canned", "value": 1}
+    ]
+  },
+  {
+      "name": "beverages",
+      "children": [
+      {"name": "milk tea", "value": 1},
+      {"name": "chrysanthermum", "value": 1},
+      {"name": "yogurt", "value": 1},
+      {"name": "ginger", "value": 1},
+      {"name": "milk powder", "value": 1},
+      {"name": "jasmine", "value": 1},
+      {"name": "tea", "value": 1},
+      {"name": "red wine", "value": 1},
+      {"name": "coffee beans", "value": 1},
+      {"name": "puer tea", "value": 1},
+      {"name": "champagne", "value": 1},
+      {"name": "effervescent tablets", "value": 1},
+      {"name": "vitamin", "value": 1}
+    ]
+  },
+  {
+      "name": "flavour",
+      "children": [
+      {"name": "shrimp paste", "value": 1},
+      {"name": "gels", "value": 1},
+      {"name": "honey", "value": 1},
+      {"name": "soy", "value": 1},
+      {"name": "caviar", "value": 1},
+      {"name": "chili", "value": 1},
+      {"name": "butter", "value": 1},
+      {"name": "sauce", "value": 1}
+    ]
+  },
+  {
+      "name": "fruits",
+      "children": [
+      {"name": "apple", "value": 1},
+      {"name": "coconut", "value": 1},
+      {"name": "cherry", "value": 1},
+      {"name": "fruit", "value": 1},
+      {"name": "strawberry", "value": 1},
+      {"name": "avocado", "value": 1},
+      {"name": "mango", "value": 1},
+      {"name": "pineapple", "value": 1},
+      {"name": "lemon", "value": 1},
+      {"name": "pitaya", "value": 1},
+      {"name": "peach", "value": 1},
+      {"name": "durian", "value": 1},
+      {"name": "passion fruit", "value": 1},
+      {"name": "grapefruit", "value": 1},
+      {"name": "banana", "value": 1},
+      {"name": "litchi", "value": 1}
+    ]
+  },
+  {
+      "name": "vegatable",
+      "children": [
+      {"name": "radish", "value": 1},
+      {"name": "mushroom", "value": 1},
+      {"name": "cabbage", "value": 1},
+      {"name": "tomato", "value": 1},
+      {"name": "ginseng", "value": 1},
+      {"name": "bean paste", "value": 1},
+      {"name": "tofu", "value": 1},
+      {"name": "potato", "value": 1},
+      {"name": "red bean", "value": 1},
+      {"name": "mung bean", "value": 1},
+      {"name": "wolfberry", "value": 1},
+      {"name": "kimchi", "value": 1},
+      {"name": "peanut", "value": 1},
+      {"name": "sauerkraut", "value": 1},
+      {"name": "sweet potato", "value": 1},
+      {"name": "bamboo shoots", "value": 1},
+      {"name": "cucumber", "value": 1},
+      {"name": "honey potato", "value": 1},
+      {"name": "corn", "value": 1},
+      {"name": "cold dishes", "value": 1}
+    ]
+  },
+  {
+      "name": "flour",
+      "children": [
+      {"name": "hot pot", "value": 1},
+      {"name": "bread", "value": 1},
+      {"name": "grim", "value": 1},
+      {"name": "dumpling", "value": 1},
+      {"name": "small hotpot", "value": 1},
+      {"name": "wheaten food", "value": 1},
+      {"name": "noodles", "value": 1},
+      {"name": "rice noodle", "value": 1},
+      {"name": "buckwheat", "value": 1},
+      {"name": "lotus root starch", "value": 1},
+      {"name": "steamed bread", "value": 1},
+      {"name": "ramen", "value": 1},
+      {"name": "hot and sour powder", "value": 1},
+      {"name": "sheet jelly", "value": 1}
+      ]
+    },
+  {
+    "name": "meat",
+    "children": [
+    {"name": "spiral lions", "value": 1},
+    {"name": "squid", "value": 1},
+    {"name": "scallops", "value": 1},
+    {"name": "bird's nest", "value": 1},
+    {"name": "large intestine", "value": 1},
+    {"name": "egg", "value": 1},
+    {"name": "seafood", "value": 1},
+    {"name": "pipped egg", "value": 1},
+    {"name": "duck egg", "value": 1},
+    {"name": "beef", "value": 1},
+    {"name": "prawn", "value": 1},
+    {"name": "green sturgeon", "value": 1},
+    {"name": "yolk", "value": 1},
+    {"name": "crucian carp", "value": 1},
+    {"name": "chicken", "value": 1},
+    {"name": "lobster", "value": 1},
+    {"name": "snail", "value": 1}
+  ]
+}
+   ]
+  }
+ ]
+}
