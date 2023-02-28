@@ -67,9 +67,14 @@ If you want to use our codes and datasets in your research, please cite:
                Liu, Fan and 
                Luo, Xin and 
                Nie, Liqiang},
-  booktitle={Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23)},
-  pages={--},
-  year={2023}
+  booktitle = {Proceedings of the Sixteenth {ACM} International Conference on Web
+               Search and Data Mining, {WSDM} 2023, Singapore, 27 February 2023 -
+               3 March 2023},
+  pages     = {1003--1011},
+  publisher = {{ACM}},
+  year      = {2023},
+  url       = {https://doi.org/10.1145/3539597.3570405},
+  doi       = {10.1145/3539597.3570405}
 }
 ``` 
 
