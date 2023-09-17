@@ -1,6 +1,6 @@
 # Multi-queue Momentum Contrast for Microvideo-Product Retrieval
 ![Hierarchical Category Ontology Tree](backbone.png)
-This repo has the PyTorch implementation and datasets of our WSDM 2023 paper: Multi-queue Momentum Contrast for Microvideo-Product Retrieval
+This repo has the PyTorch implementation and datasets of our WSDM 2023 paper: **"Multi-queue Momentum Contrast for Microvideo-Product Retrieval"**(https://dl.acm.org/doi/pdf/10.1145/3539597.3570405)
 
 ## Introduction
 In this work, We formulate the microvideo-product retrieval task, which is the first attempt to explore the retrieval between the multi-modal and multi-modal instances.
